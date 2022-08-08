@@ -1,0 +1,48 @@
+{
+  "home": {
+    "title": "My Events"
+  },
+  "navbar": {
+    "login": "Login",
+    "updateName": "Update your name",
+    "updateEmail": "Update your email",
+    "verifyEmail": "Verify email",
+    "uploadPhoto": "Upload photo",
+    "logout": "Logout"
+  },
+  "featured": {
+    "text": "Look for your neighbourhood",
+    "startTyping": "Start typing",
+    "search": "Search",
+    "location": "Location",
+    "legend_sport": "Sport event",
+    "legend_cultural": "Cultural event"
+  },
+  "event": {
+    "download": "Download",
+    "upload": "Upload",
+    "latency": "Latency",
+    "cuts": "Cuts",
+    "cutsPerWeek": "Cuts per week",
+    "provider": "Provider",
+    "offre": "Offer",
+    "bandwidth": "Bandwidth",
+    "usage": "Usage",
+    "startTime": "Start time",
+    "endTime": "End time",
+    "motive": "Motive",
+    "addToComparaison": "Add to comparaison",
+    "close": "Close"
+  },
+  "help": {
+    "title": "Help",
+    "description": "The objective of this project is to provide a neutral and reliable solution in order to help the end user to make his choice among the different service providers and this according to his needs and his geographical area.",
+    "partners": "Our partners"
+  },
+  "tutorial": {
+    "title": "View tutorial",
+    "view": "View events",
+    "new": "New event",
+    "close": "Close"
+  }
+}

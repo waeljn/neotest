@@ -1,0 +1,48 @@
+{
+  "home": {
+    "title": "My Events"
+  },
+  "navbar": {
+    "login": "Se connecter",
+    "updateName": "Modifier le nom",
+    "updateEmail": "Modifier email",
+    "verifyEmail": "Vérifier email",
+    "uploadPhoto": "Téléverser une photo",
+    "logout": "Se déconnecter"
+  },
+  "featured": {
+    "text": "Chercher dans votre cartier",
+    "startTyping": "Commencer à tapper",
+    "search": "Rechercher",
+    "location": "Emplacement",
+    "legend_home": "Internet à domicile (ADSL/VDSL/fibre...)",
+    "legend_mobile": "Internet mobile (3G/4G...)"
+  },
+  "event": {
+    "download": "Téléchargement",
+    "upload": "Téléversement",
+    "latency": "Latence",
+    "cuts": "Couputres",
+    "cutsPerWeek": "Coupures par semaine",
+    "provider": "Fournisseur",
+    "offre": "Offre",
+    "bandwidth": "Bande passante",
+    "usage": "Usage",
+    "startTime": "Temps de commencement",
+    "endTime": "Temps d'arret",
+    "motive": "Motif",
+    "addToComparaison": "Ajouter à la comparaison",
+    "close": "Fermer"
+  },
+  "help": {
+    "title": "Aide",
+    "description": "L’objectif de ce projet est de fournir une solution neutre et fiable afin d’aider l’utilisateur final à faire son choix parmi les différents fournisseurs de services et ceci en fonction de ses besoins et de sa zone géographique.",
+    "partners": "Nos partenaires"
+  },
+  "tutorial": {
+    "title": "Voir didacticiel",
+    "view": "Voir les expériences",
+    "new": "Nouvelle expérience",
+    "close": "Fermer"
+  }
+}
